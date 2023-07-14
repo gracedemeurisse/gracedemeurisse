@@ -1,4 +1,4 @@
-## Welcome to my website!
+## Grace deMeurisse
 
 #### My name is Grace, and I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My two primary lines of research include bilingualism and cognitive control, and second language (L2) sentence processing. 
 
