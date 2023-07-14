@@ -1,4 +1,4 @@
-### Grace deMeurisse, M.A
+### Grace deMeurisse
 
 <!--
 **gracedemeurisse/gracedemeurisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
