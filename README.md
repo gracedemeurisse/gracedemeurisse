@@ -1,6 +1,6 @@
 ## Grace deMeurisse
 
-#### My name is Grace, and I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My two primary lines of research include bilingualism and cognitive control, and second language (L2) sentence processing. 
+#### Welcome to my website! I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My two primary lines of research include bilingualism and cognitive control, and second language (L2) sentence processing. 
 
 #### My dissertation research aims to investigate L2 processing of a particular syntactic construction called negative polarity. Have you ever heard sentences like "nobody has ever wished me happy birthday" or "only few people have ever read my thesis"? These are both examples of negative polarity; the item "ever" is called the negative polarity item, and it is "licensed" in negative contexts, as in the presence of the word "no" or "only".
 
