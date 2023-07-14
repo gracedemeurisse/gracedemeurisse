@@ -1,8 +1,12 @@
-### Welcome to my website!
+## Welcome to my website!
 
-#### My name is Grace, and I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My master's research investigated bilingualism and its impacts on cognition. More specifically, I investigated the role of top-down (e,g., attentional control) or bottom-up (e.g., visual perception) processes in bilinguals' and monolinguals' performance on behavioral tasks. 
+#### My name is Grace, and I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My two primary lines of research include bilingualism and cognitive control, and second language (L2) sentence processing. 
 
-#### My dissertation research aims to investigate second language learners (L2) processing of a particular syntactic construction called negative polairty. I ask whether degree of pragmatic competency and of negation (so-to-speak) modulates indices of behavioral and neural performance in response to negative polarity. 
+#### My dissertation research aims to investigate L2 processing of a particular syntactic construction called negative polarity. Have you ever heard sentences like "nobody has ever wished me happy birthday" or "only few people have ever read my thesis"? These are both examples of negative polarity; the item "ever" is called the negative polarity item, and it is "licensed" in negative contexts, as in the presence of the word "no" or "only".
+
+#### My research investigates whether pragmatic competency, and/or degree of negation (i.e., "no" is stronger than "only") modulates certain behavioral and neural indices of processing, such as response time (RT) and Event Related Potentials (ERPs), respectively. 
+
+#### Outside of my academic interests and research, my personal interests and hobbies include photography, hiking, walking, and re-watching the same Netflix shows ten times over (Gilmore Girls).
 
 <!--
 **gracedemeurisse/gracedemeurisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
