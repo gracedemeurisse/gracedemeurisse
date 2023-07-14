@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name is Grace and I am a PhD Candidate in the Department of Linguistics at the University of Florida. I research in the Brain, Language, and Bilingialism Lab under the mentorship of Dr. Edith Kaan. 
 
 <!--
 **gracedemeurisse/gracedemeurisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
