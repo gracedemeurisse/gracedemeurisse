@@ -1,5 +1,7 @@
 ### Grace deMeurisse
 
+# I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics.
+
 <!--
 **gracedemeurisse/gracedemeurisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
