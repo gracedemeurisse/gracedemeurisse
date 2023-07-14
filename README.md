@@ -1,6 +1,8 @@
-### Grace deMeurisse
+### Welcome to my website!
 
-#### I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics.
+#### My name is Grace, and I am a PhD Candidate in the Department of Linguistics at the University of Florida. Broadly, I research psycholinguistics. My master's research investigated bilingualism and its impacts on cognition. More specifically, I investigated the role of top-down (e,g., attentional control) or bottom-up (e.g., visual perception) processes in bilinguals' and monolinguals' performance on behavioral tasks. 
+
+#### My dissertation research aims to investigate second language learners (L2) processing of a particular syntactic construction called negative polairty. I ask whether degree of pragmatic competency and of negation (so-to-speak) modulates indices of behavioral and neural performance in response to negative polarity. 
 
 <!--
 **gracedemeurisse/gracedemeurisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
